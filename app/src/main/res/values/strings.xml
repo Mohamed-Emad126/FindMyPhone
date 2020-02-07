@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Find Me</string>
+    <string name="enable">Enable</string>
+    <string name="add_trusted_contact">Add Trusted Contacts</string>
+</resources>
